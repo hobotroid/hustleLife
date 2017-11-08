@@ -1,0 +1,24 @@
+{
+  "name": "hustlelife",
+  "version": "1.0.0",
+  "description": "A simple Node.js version of the game of Life, with a Hustle spin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hobotroid/hustleLife.git"
+  },
+  "author": "Matt Finnegan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hobotroid/hustleLife/issues"
+  },
+  "homepage": "https://github.com/hobotroid/hustleLife#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "terminal-kit": "^1.14.0"
+  }
+}
