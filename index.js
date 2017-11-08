@@ -9,7 +9,7 @@
 'use scrict'
 
 let _ = require('lodash')
-let term = require( 'terminal-kit' ).terminal
+let term = require('terminal-kit').terminal
 
 // Starting hustler grid
 let INIT_GRID = [
